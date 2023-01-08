@@ -39,20 +39,7 @@
         "isStyle": false,
         "hatType": 1,
         "cosmeticOptions": [
-          {
-            "ItemDefinition": "CID_A_275_Athena_Commando_F_Prime_D",
-            "Name": "Default Skins",
-            "Description": "To swap/use a backbling you must convert this swap first!",
-            "Rarity": "Common",
-            "Icon": "https://fortnite-api.com/images/cosmetics/br/CID_A_275_Athena_Commando_F_Prime_D/smallicon.png",
-            "Type": 0,
-            "Options": null,
-            "Series": null,
-            "IsConverted": false,
-            "Status": null,
-            "SwapModel": null,
-            "Swaps": null
-          },
+          
           {
             "ItemDefinition": "CID_479_Athena_Commando_F_Davinci",
             "Name": "Glow",
