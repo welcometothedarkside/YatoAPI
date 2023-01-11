@@ -72,13 +72,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_HIS_BR01.F_MED_Commando_Body_HIS_BR01",
@@ -88,10 +88,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -124,13 +124,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_HIS_BR01.F_MED_Commando_Body_HIS_BR01",
@@ -140,10 +140,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -176,13 +176,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_HIS_BR01.F_MED_Commando_Body_HIS_BR01",
@@ -192,10 +192,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -285,13 +285,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01.F_MED_BLK_Red_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01_AnimBP_Child.F_MED_BLK_Red_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_BLK_BR01.F_MED_Commando_Body_BLK_BR01",
@@ -301,10 +301,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -337,13 +337,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01.F_MED_BLK_Red_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01_AnimBP_Child.F_MED_BLK_Red_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_BLK_BR01.F_MED_Commando_Body_BLK_BR01",
@@ -353,10 +353,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -389,13 +389,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01.F_MED_BLK_Red_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01_AnimBP_Child.F_MED_BLK_Red_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_BLK_BR01.F_MED_Commando_Body_BLK_BR01",
@@ -405,10 +405,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -498,13 +498,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_ASN_BR01.F_MED_Commando_Body_ASN_BR01",
@@ -514,10 +514,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -550,13 +550,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_ASN_BR01.F_MED_Commando_Body_ASN_BR01",
@@ -566,10 +566,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -602,13 +602,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_ASN_BR01.F_MED_Commando_Body_ASN_BR01",
@@ -618,10 +618,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -711,13 +711,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01.F_MED_CAU_Armstrong_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01_AnimBP_Child.F_MED_CAU_Armstrong_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_CAU_BR01.F_MED_Commando_Body_CAU_BR01",
@@ -727,10 +727,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -763,13 +763,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01.F_MED_CAU_Armstrong_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01_AnimBP_Child.F_MED_CAU_Armstrong_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_CAU_BR01.F_MED_Commando_Body_CAU_BR01",
@@ -779,10 +779,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -815,13 +815,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01.F_MED_CAU_Armstrong_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01_AnimBP_Child.F_MED_CAU_Armstrong_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_01/Materials/F_MED_Commando_Body_CAU_BR01.F_MED_Commando_Body_CAU_BR01",
@@ -831,10 +831,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -924,13 +924,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01.M_MED_CAU_Jonesy_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child.M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_CAU_BR01.M_Med_Soldier_04_CAU_BR01",
@@ -940,10 +940,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -976,13 +976,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01.M_MED_CAU_Jonesy_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child.M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_CAU_BR01.M_Med_Soldier_04_CAU_BR01",
@@ -992,10 +992,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1028,13 +1028,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01.M_MED_CAU_Jonesy_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child.M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_CAU_BR01.M_Med_Soldier_04_CAU_BR01",
@@ -1044,10 +1044,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1137,13 +1137,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_01.M_MED_BLK_Sydney_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_Head_01_AnimBP_Child.M_MED_BLK_Sydney_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_BLK_BR01.M_Med_Soldier_04_BLK_BR01",
@@ -1153,10 +1153,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1189,13 +1189,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_01.M_MED_BLK_Sydney_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_Head_01_AnimBP_Child.M_MED_BLK_Sydney_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_BLK_BR01.M_Med_Soldier_04_BLK_BR01",
@@ -1205,10 +1205,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1241,13 +1241,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_01.M_MED_BLK_Sydney_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_Head_01_AnimBP_Child.M_MED_BLK_Sydney_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_BLK_BR01.M_Med_Soldier_04_BLK_BR01",
@@ -1257,10 +1257,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1350,13 +1350,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01.M_MED_HIS_Sparks_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01_AnimBP_Child.M_MED_HIS_Sparks_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_HIS_BR01.M_Med_Soldier_04_HIS_BR01",
@@ -1366,10 +1366,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1402,13 +1402,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01.M_MED_HIS_Sparks_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01_AnimBP_Child.M_MED_HIS_Sparks_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_HIS_BR01.M_Med_Soldier_04_HIS_BR01",
@@ -1418,10 +1418,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1454,13 +1454,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01.M_MED_HIS_Sparks_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01_AnimBP_Child.M_MED_HIS_Sparks_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_HIS_BR01.M_Med_Soldier_04_HIS_BR01",
@@ -1470,10 +1470,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1563,13 +1563,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01.M_MED_ASN_Jae_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01_AnimBP_Child.M_MED_ASN_Jae_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_ASN_BR01.M_Med_Soldier_04_ASN_BR01",
@@ -1579,10 +1579,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1615,13 +1615,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01.M_MED_ASN_Jae_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01_AnimBP_Child.M_MED_ASN_Jae_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_ASN_BR01.M_Med_Soldier_04_ASN_BR01",
@@ -1631,10 +1631,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1667,13 +1667,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01.M_MED_ASN_Jae_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01_AnimBP_Child.M_MED_ASN_Jae_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_01/Material/M_Med_Soldier_04_ASN_BR01.M_Med_Soldier_04_ASN_BR01",
@@ -1683,10 +1683,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1776,13 +1776,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01.M_MED_HIS_Sparks_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01_AnimBP_Child.M_MED_HIS_Sparks_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_32/Materials/M_Med_Soldier_TV32.M_Med_Soldier_TV32",
@@ -1792,10 +1792,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1828,13 +1828,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01.M_MED_HIS_Sparks_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01_AnimBP_Child.M_MED_HIS_Sparks_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_32/Materials/M_Med_Soldier_TV32.M_Med_Soldier_TV32",
@@ -1844,10 +1844,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1880,13 +1880,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01.M_MED_HIS_Sparks_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01_AnimBP_Child.M_MED_HIS_Sparks_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_32/Materials/M_Med_Soldier_TV32.M_Med_Soldier_TV32",
@@ -1896,10 +1896,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -1989,13 +1989,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01.M_MED_CAU_Jonesy_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child.M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/CV_02/Materials/M_Med_Soldier_04_CV02.M_Med_Soldier_04_CV02",
@@ -2005,10 +2005,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2041,13 +2041,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01.M_MED_CAU_Jonesy_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child.M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/CV_02/Materials/M_Med_Soldier_04_CV02.M_Med_Soldier_04_CV02",
@@ -2057,10 +2057,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2093,13 +2093,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01.M_MED_CAU_Jonesy_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child.M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/CV_02/Materials/M_Med_Soldier_04_CV02.M_Med_Soldier_04_CV02",
@@ -2109,10 +2109,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2202,13 +2202,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_01.M_MED_BLK_Sydney_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_Head_01_AnimBP_Child.M_MED_BLK_Sydney_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_02/Materials/M_Med_Soldier_04_TV02.M_Med_Soldier_04_TV02",
@@ -2218,10 +2218,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2254,13 +2254,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_01.M_MED_BLK_Sydney_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_Head_01_AnimBP_Child.M_MED_BLK_Sydney_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_02/Materials/M_Med_Soldier_04_TV02.M_Med_Soldier_04_TV02",
@@ -2270,10 +2270,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2306,13 +2306,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_01.M_MED_BLK_Sydney_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_Head_01_AnimBP_Child.M_MED_BLK_Sydney_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_02/Materials/M_Med_Soldier_04_TV02.M_Med_Soldier_04_TV02",
@@ -2322,10 +2322,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2415,13 +2415,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01.M_MED_ASN_Jae_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01_AnimBP_Child.M_MED_ASN_Jae_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/CV_06/Materials/M_Med_Soldier_04_CV06.M_Med_Soldier_04_CV06",
@@ -2431,10 +2431,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2467,13 +2467,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01.M_MED_ASN_Jae_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01_AnimBP_Child.M_MED_ASN_Jae_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/CV_06/Materials/M_Med_Soldier_04_CV06.M_Med_Soldier_04_CV06",
@@ -2483,10 +2483,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2519,13 +2519,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01.M_MED_ASN_Jae_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01_AnimBP_Child.M_MED_ASN_Jae_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/CV_06/Materials/M_Med_Soldier_04_CV06.M_Med_Soldier_04_CV06",
@@ -2535,10 +2535,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2628,13 +2628,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01.F_MED_BLK_Red_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01_AnimBP_Child.F_MED_BLK_Red_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_03/Materials/F_MED_Commando_Body_BR03.F_MED_Commando_Body_BR03",
@@ -2644,10 +2644,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2680,13 +2680,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01.F_MED_BLK_Red_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01_AnimBP_Child.F_MED_BLK_Red_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_03/Materials/F_MED_Commando_Body_BR03.F_MED_Commando_Body_BR03",
@@ -2696,10 +2696,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2732,13 +2732,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01.F_MED_BLK_Red_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01_AnimBP_Child.F_MED_BLK_Red_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_03/Materials/F_MED_Commando_Body_BR03.F_MED_Commando_Body_BR03",
@@ -2748,10 +2748,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2841,13 +2841,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01.F_MED_CAU_Armstrong_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01_AnimBP_Child.F_MED_CAU_Armstrong_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_02/Materials/F_MED_Commando_Body_BR02.F_MED_Commando_Body_BR02",
@@ -2857,10 +2857,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2893,13 +2893,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01.F_MED_CAU_Armstrong_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01_AnimBP_Child.F_MED_CAU_Armstrong_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_02/Materials/F_MED_Commando_Body_BR02.F_MED_Commando_Body_BR02",
@@ -2909,10 +2909,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -2945,13 +2945,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01.F_MED_CAU_Armstrong_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01_AnimBP_Child.F_MED_CAU_Armstrong_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_02/Materials/F_MED_Commando_Body_BR02.F_MED_Commando_Body_BR02",
@@ -2961,10 +2961,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -3054,13 +3054,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_19/Materials/F_MED_Commando_Body_TV19.F_MED_Commando_Body_TV19",
@@ -3070,10 +3070,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -3106,13 +3106,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_19/Materials/F_MED_Commando_Body_TV19.F_MED_Commando_Body_TV19",
@@ -3122,10 +3122,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -3158,13 +3158,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_19/Materials/F_MED_Commando_Body_TV19.F_MED_Commando_Body_TV19",
@@ -3174,10 +3174,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -3267,13 +3267,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/CV_04/Materials/F_MED_Commando_Body_CV05_Ath.F_MED_Commando_Body_CV05_Ath",
@@ -3283,10 +3283,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -3319,13 +3319,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/CV_04/Materials/F_MED_Commando_Body_CV05_Ath.F_MED_Commando_Body_CV05_Ath",
@@ -3335,10 +3335,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -3371,13 +3371,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/CV_04/Materials/F_MED_Commando_Body_CV05_Ath.F_MED_Commando_Body_CV05_Ath",
@@ -3387,10 +3387,10 @@
             "4": "/"
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
-          "FaceACCFX": "/Game/kaede",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCFX": "/Game/kaede.kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
-          "FaceACCMesh": "/Game/kaede",
+          "FaceACCMesh": "/Game/kaede.kaede",
           "FaceACCMaterials": {
             "0": "/",
             "1": "/",
@@ -3480,13 +3480,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_01.M_MED_BLK_Sydney_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Meshes/M_MED_BLK_Sydney_Head_01_AnimBP_Child.M_MED_BLK_Sydney_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/CV_04/Materials/M_Med_Soldier_04_CV04.M_Med_Soldier_04_CV04",
@@ -3497,7 +3497,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Male_Commando_02.Male_Commando_02",
           "FaceACCMaterials": {
@@ -3589,13 +3589,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01.M_MED_CAU_Jonesy_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child.M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_01/Materials/M_Med_Soldier_04_TV01.M_Med_Soldier_04_TV01",
@@ -3606,7 +3606,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Male_Commando_01.Male_Commando_01",
           "FaceACCMaterials": {
@@ -3698,13 +3698,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01.M_MED_HIS_Sparks_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01_AnimBP_Child.M_MED_HIS_Sparks_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_34/Materials/M_Med_Soldier_TV34.M_Med_Soldier_TV34",
@@ -3715,7 +3715,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Female_Commando_06-MaleTV33.Female_Commando_06-MaleTV33",
           "FaceACCMaterials": {
@@ -3807,13 +3807,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01.M_MED_ASN_Jae_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Mesh/M_MED_ASN_Jae_Head_01_AnimBP_Child.M_MED_ASN_Jae_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_03/Materials/M_Med_Soldier_04_TV03.M_Med_Soldier_04_TV03",
@@ -3824,7 +3824,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Male_Commando_03.Male_Commando_03",
           "FaceACCMaterials": {
@@ -3916,13 +3916,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01.F_MED_CAU_Armstrong_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_CAU_Armstrong_Head_01/Mesh/F_MED_CAU_Armstrong_01_AnimBP_Child.F_MED_CAU_Armstrong_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_16/Materials/F_MED_Commando_Body_TV16.F_MED_Commando_Body_TV16",
@@ -3933,7 +3933,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Female_Commando_05.Female_Commando_05",
           "FaceACCMaterials": {
@@ -4025,13 +4025,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01.F_MED_BLK_Red_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01_AnimBP_Child.F_MED_BLK_Red_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_14/Materials/F_MED_Commando_Body_TV14.F_MED_Commando_Body_TV14",
@@ -4042,7 +4042,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Hat_Empty.Hat_Empty",
           "FaceACCMaterials": {
@@ -4134,13 +4134,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01.F_MED_BLK_Red_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_BLK_Red_Head_01/Mesh/F_MED_BLK_Red_Head_01_AnimBP_Child.F_MED_BLK_Red_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_14/Materials/F_MED_Commando_Body_TV14.F_MED_Commando_Body_TV14",
@@ -4151,7 +4151,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Female_Commando_06.Female_Commando_06",
           "FaceACCMaterials": {
@@ -4243,13 +4243,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_01/Materials/F_MED_Commando_Body_TV01.F_MED_Commando_Body_TV01",
@@ -4260,7 +4260,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": "/Game/Accessories/Hats/Mesh/Female_Commando_01_Skeleton_AnimBP.Female_Commando_01_Skeleton_AnimBP_C",
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Female_Commando_01.Female_Commando_01",
           "FaceACCMaterials": {
@@ -4352,13 +4352,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/CM_01/Materials/F_MED_Commando_Body_CM01.F_MED_Commando_Body_CM01",
@@ -4369,7 +4369,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Female_Commando_03.Female_Commando_03",
           "FaceACCMaterials": {
@@ -4461,13 +4461,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01.M_MED_CAU_Jonesy_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child.M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_15/Materials/M_Med_Soldier_04_TV15.M_Med_Soldier_04_TV15",
@@ -4478,7 +4478,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Male_Commando_05.Male_Commando_05",
           "FaceACCMaterials": {
@@ -4570,13 +4570,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01.M_MED_HIS_Sparks_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_HIS_Sparks_Head_01/Mesh/M_MED_HIS_Sparks_Head_01_AnimBP_Child.M_MED_HIS_Sparks_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_16/Materials/M_Med_Soldier_04_TV16.M_Med_Soldier_04_TV16",
@@ -4587,7 +4587,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Hat_M_Commando_06.Hat_M_Commando_06",
           "FaceACCMaterials": {
@@ -4679,13 +4679,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_02/Materials/F_MED_Commando_Body_TV02.F_MED_Commando_Body_TV02",
@@ -4696,7 +4696,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Female_Commando_02.Female_Commando_02",
           "FaceACCMaterials": {
@@ -4774,13 +4774,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_21/Materials/F_MED_Commando_Body_TV21.F_MED_Commando_Body_TV21",
@@ -4791,7 +4791,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Meshes/Parts/F_MED_Renegade_Raider_Holiday_AnimBP.F_MED_Renegade_Raider_Holiday_AnimBP_C",
           "FaceACCMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Meshes/Parts/F_MED_Renegade_Raider_Holiday.F_MED_Renegade_Raider_Holiday",
           "FaceACCMaterials": {
@@ -4826,13 +4826,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_21/Materials/F_MED_Commando_Body_TV21.F_MED_Commando_Body_TV21",
@@ -4843,7 +4843,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Meshes/Parts/F_MED_Renegade_Raider_Holiday_AnimBP.F_MED_Renegade_Raider_Holiday_AnimBP_C",
           "FaceACCMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Meshes/Parts/F_MED_Renegade_Raider_Holiday.F_MED_Renegade_Raider_Holiday",
           "FaceACCMaterials": {
@@ -4935,13 +4935,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20",
@@ -4952,7 +4952,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Meshes/Parts/F_MED_Renegade_Raider_Holiday_AnimBP.F_MED_Renegade_Raider_Holiday_AnimBP_C",
           "FaceACCMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Meshes/Parts/F_MED_Renegade_Raider_Holiday.F_MED_Renegade_Raider_Holiday",
           "FaceACCMaterials": {
@@ -4987,13 +4987,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01.F_MED_ASN_Sarah_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Meshes/F_MED_ASN_Sarah_Head_01_AnimBP_Child.F_MED_ASN_Sarah_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20",
@@ -5004,7 +5004,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Meshes/Parts/F_MED_Renegade_Raider_Holiday_AnimBP.F_MED_Renegade_Raider_Holiday_AnimBP_C",
           "FaceACCMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Renegade_Raider_Holiday/Meshes/Parts/F_MED_Renegade_Raider_Holiday.F_MED_Renegade_Raider_Holiday",
           "FaceACCMaterials": {
@@ -5082,13 +5082,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/Zombie/Materials/F_MED_Soldier01_Zombie.F_MED_Soldier01_Zombie",
@@ -5099,7 +5099,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Hat_Empty.Hat_Empty",
           "FaceACCMaterials": {
@@ -5177,13 +5177,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Zombie_Pink_Body.F_MED_Zombie_Pink_Body",
@@ -5194,7 +5194,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Ramirez_Glasses.Ramirez_Glasses",
           "FaceACCMaterials": {
@@ -5229,13 +5229,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Zombie_Pink_Body.F_MED_Zombie_Pink_Body",
@@ -5246,7 +5246,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/",
           "FaceACCMaterials": {
@@ -5281,13 +5281,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/F_MED_Zombie_Pink/Materials/F_MED_Zombie_Pink_Body.F_MED_Zombie_Pink_Body",
@@ -5298,7 +5298,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/",
           "FaceACCMaterials": {
@@ -5390,13 +5390,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/HW_01/Materials/F_MED_Commando_HW01.F_MED_Commando_HW01",
@@ -5407,7 +5407,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/Game/Accessories/Hats/Mesh/Ramirez_Glasses.Ramirez_Glasses",
           "FaceACCMaterials": {
@@ -5442,13 +5442,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/HW_01/Materials/F_MED_Commando_HW01.F_MED_Commando_HW01",
@@ -5459,7 +5459,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/",
           "FaceACCMaterials": {
@@ -5494,13 +5494,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01.F_MED_HIS_Ramirez_Head_01",
           "HeadABP": "/Game/Characters/Player/Female/Medium/Heads/F_MED_HIS_Ramirez_Head_01/Mesh/F_MED_HIS_Ramirez_Head_01_AnimBP_Child.F_MED_HIS_Ramirez_Head_01_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/HW_01/Materials/F_MED_Commando_HW01.F_MED_Commando_HW01",
@@ -5511,7 +5511,7 @@
           },
           "BodySkeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
           "FaceACCFX": "/",
-          "FaceACCPartModifierBP": "/Game/kaede",
+          "FaceACCPartModifierBP": "/Game/kaede.kaede",
           "FaceACCABP": null,
           "FaceACCMesh": "/",
           "FaceACCMaterials": {
@@ -5603,13 +5603,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01.M_MED_CAU_Jonesy_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child.M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/HW_01/Materials/M_Med_Soldier_04_HW01.M_Med_Soldier_04_HW01",
@@ -5655,13 +5655,13 @@
             "4": "/"
           },
           "HeadFX": "/",
-          "HeadPartModifierBP": "/Game/kaede",
+          "HeadPartModifierBP": "/Game/kaede.kaede",
           "HeadHairColor": "/",
           "HeadMesh": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01.M_MED_CAU_Jonesy_Head_01",
           "HeadABP": "/Game/Characters/Player/Male/Medium/Heads/M_MED_CAU_Jonesy_Head_01/Meshes/M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child.M_MED_CAU_Jonesy_Head_01_Export_Skeleton_AnimBP_Child_C",
           "BodyABP": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
           "BodyFX": "/",
-          "BodyPartModifierBP": "/Game/kaede",
+          "BodyPartModifierBP": "/Game/kaede.kaede",
           "BodyMesh": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04.SK_M_Med_Soldier_04",
           "BodyMaterials": {
             "0": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/HW_01/Materials/M_Med_Soldier_04_HW01.M_Med_Soldier_04_HW01",
